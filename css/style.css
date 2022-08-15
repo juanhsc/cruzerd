@@ -1,0 +1,84 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+.ul-barra{
+    color: white;
+    display: flex;
+    list-style: none;
+   justify-content:space-around;
+   font-size: 30px;
+   border-bottom: 1px solid #FFFF;
+  
+margin: 2px;
+}
+.logo{
+    background-color: black;
+}
+.imagen-logo {
+    width: 250px;
+    height: 50px;
+    display: block;
+    margin: 0px auto;
+   
+   
+   
+
+}
+.pie{
+    border-top: 1px solid #FFFF;
+    height: 90px;
+    background-color: rgb(41, 39, 39);
+}
+.direccion{
+    color: #FFFF;
+}
+.nav-link{
+    color: #FFFF;
+}
+.section-carrousel{
+    margin-top: 2rem;
+}
+.section-cards{
+    margin-top: 2rem;
+}
+.card{
+    display: flex;
+    margin: 1rem;
+    
+    
+}
+#tarjetas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+
+
+}
+.row{
+    display:flex;
+}
+
+
+
+
+.wrapper{
+    background: linear-gradient(rgb(252, 249, 249), rgb(218, 213, 213));
+   
+}
+.foto-calle{
+    width: 70%;
+}
+.hacemos{
+    display: flex;
+}
+p{
+    color: black;
+}
