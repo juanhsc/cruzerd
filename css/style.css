@@ -82,3 +82,22 @@ margin: 2px;
 p{
     color: black;
 }
+.luisfoto{
+width: 70%;
+margin-left: 7rem;
+padding-left: 1rem;
+}
+.intro{
+   margin-left: 2rem;
+}
+.foto-calle{
+    margin-left: 3rem;
+}
+.mapouter{
+    margin: 3rem;
+}
+.sitio-contruccion{
+    width: 500px;
+    height: 500px;
+    margin-left: 15rem;
+}
